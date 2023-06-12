@@ -1,0 +1,15 @@
+C:\Users\TD\source\repos\Cshape buoi 1\bin\Debug\net6.0\Cshape buoi 1.exe
+C:\Users\TD\source\repos\Cshape buoi 1\bin\Debug\net6.0\Cshape buoi 1.deps.json
+C:\Users\TD\source\repos\Cshape buoi 1\bin\Debug\net6.0\Cshape buoi 1.runtimeconfig.json
+C:\Users\TD\source\repos\Cshape buoi 1\bin\Debug\net6.0\Cshape buoi 1.dll
+C:\Users\TD\source\repos\Cshape buoi 1\bin\Debug\net6.0\Cshape buoi 1.pdb
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.csproj.AssemblyReference.cache
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.AssemblyInfoInputs.cache
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.AssemblyInfo.cs
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.csproj.CoreCompileInputs.cache
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.dll
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\refint\Cshape buoi 1.dll
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.pdb
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\Cshape buoi 1.genruntimeconfig.cache
+C:\Users\TD\source\repos\Cshape buoi 1\obj\Debug\net6.0\ref\Cshape buoi 1.dll
